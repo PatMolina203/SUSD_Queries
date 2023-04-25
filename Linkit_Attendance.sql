@@ -1,4 +1,5 @@
-
+--Student Attendance Current Year
+--Pulls student attendace by day and period 
 
 Select DISTINCT 
 'ATTENDANCE.ID'=A.ID,
